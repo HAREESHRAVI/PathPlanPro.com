@@ -1,0 +1,1 @@
+prompt("Enter a number:");
