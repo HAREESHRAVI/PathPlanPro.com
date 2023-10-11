@@ -181,3 +181,8 @@ nav a {
 .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5);
 }
+.skills-h1,
+.roles-h1 {
+  font-size: 50px;
+  text-align: center;
+}
