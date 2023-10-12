@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f4f4;
+  background-color: #ffffff;
 }
 h1 {
   color: black;
@@ -53,8 +53,8 @@ nav a {
 .index-box {
   width: 1000px;
   height: 300px;
-  top: 250px;
-  left: 440px;
+  top: 290px;
+  left: 160px;
   position: absolute;
   padding-top: 25px;
   font-size: 50px;
@@ -63,6 +63,14 @@ nav a {
   font-weight: bold;
   margin-top: 20px;
   text-align: center;
+}
+.Index-image {
+  background-color: transparent;
+  position: absolute;
+  top: 200px;
+  left: 1165px;
+  height: 500px;
+  width: 700px;
 }
 .styled-button-roles {
   background-color: transparent;
@@ -74,8 +82,8 @@ nav a {
   cursor: pointer;
   color: black;
   position: absolute;
-  top: 650px;
-  left: 650px;
+  top: 700px;
+  left: 300px;
   width: 185px;
   height: 80px;
   text-align: center;
@@ -101,8 +109,8 @@ nav a {
   cursor: pointer;
   color: black;
   position: absolute;
-  top: 650px;
-  left: 1100px;
+  top: 700px;
+  left: 845px;
   width: 185px;
   height: 80px;
   text-align: center;
@@ -134,6 +142,7 @@ nav a {
   max-width: 800px;
   margin: 0 auto;
   margin-left: 205px;
+  margin-top: 165px;
 }
 
 .card {
