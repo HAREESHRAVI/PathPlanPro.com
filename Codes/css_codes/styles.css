@@ -275,3 +275,11 @@ text tspan {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeSpeed;
 }
+/*========================Javascript Codes======================== */
+.hidden {
+  opacity: 0;
+  transition: all 1s;
+}
+.show {
+  opacity: 1;
+}
